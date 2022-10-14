@@ -1,0 +1,20 @@
+.azulsura{
+    background-color: #0033a0;
+
+}
+
+.amarilloSura{
+    background-color: #E3E829;
+}
+
+.AzulSura2{
+    background-color: #4ec3d0
+
+}
+    .bannersura{
+        background-image: url("../img/banner.jpg");
+        background-position: top center;
+        background-size: cover;
+        padding: 20%;
+        background-attachment: fixed;
+    }
